@@ -29,12 +29,16 @@ git checkout branchName
 in master : git merge branchName 
 git branch -d mybranchone
 
-#####################
-below dont need init
-git clone url
-git branch -d mybranchone
-
 ####################
 for delete
 git rm filename with extention
+
+#####################
+below dont need init
+git clone url
+go to folder
+git status
+after change
+git push origin master
+use username and password
 
