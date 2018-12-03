@@ -1,0 +1,36 @@
+My First
+git 
+git init
+git status
+after every change first add then commit it
+git add filename with extention or -A to add all files or "page*" means every file that start with page
+git commit -m "some comment"
+
+git log
+
+Use below before commit
+git diff HAED
+
+####################
+git add -A (means add to stage before commited)
+git diff --staged
+
+for remove from stage
+git reset filename with extention
+
+####################
+return to last commit
+git checkout -- part01.txt
+
+####################
+git branch
+git branch new branch name
+git checkout branchName 
+in master : git merge branchName 
+git branch -d mybranchone
+git branch -d mybranchone
+
+####################
+for delete
+git rm filename with extention
+
