@@ -1,0 +1,3 @@
+add exiting project to exiting repository
+git remote add origin url
+git push -u origin master
